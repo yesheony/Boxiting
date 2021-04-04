@@ -1,0 +1,17 @@
+diff --git a/app.js b/app.js
+index e69de29..b26ecfe 100644
+--- a/app.js
++++ b/app.js
+@@ -0,0 +1,3 @@
++짱 짱
++ㅇㄹㄴㅁㄹㄴㅁ
++ㄹㄴㅇㄹㅇㄴㄹ
+\ No newline at end of file
+diff --git a/index.html b/index.html
+index d8263ee..5ee9a06 100644
+--- a/index.html
++++ b/index.html
+@@ -1 +1 @@
+-2
+\ No newline at end of file
++2 짱 ㄴㅇㄹㄴㄹ ㄴㅇㄹㅁㄴㄹ ㄴㅁㄹ
